@@ -65,3 +65,6 @@
 
 <h2>Download Pokémon TCG Pocket MOD APK</h2>
 <p>Are you ready to embark on your Pokémon journey? The Pokémon TCG Pocket MOD APK brings all the excitement of the trading card game to your mobile device, featuring thrilling elements like unlimited coins and daily booster packs. Download securely from DroidCoast today and begin collecting, battling, and trading your way to victory!</p>
+
+   ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Pokemon-TCG-Pocket-MOD-APK-1-0-7)
+
